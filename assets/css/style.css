@@ -6863,8 +6863,28 @@ button.close-search i {
     opacity: 0;
 }
 
+/* Buy now */
 
+.bi {
+    font-size: 1.2rem;  /* Adjust icon size */
+    color: #007bff;     /* Default blue color */
+    margin-right: 8px;  /* Space between icon and text */
+}
 
+.bi-telephone {
+    color: #28a745;  /* Green color for phone icon */
+}
+
+.bi-geo-alt {
+    color: #dc3545;  /* Red color for location icon */
+}
+
+.map-container {
+    margin-top: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
 
 
 
